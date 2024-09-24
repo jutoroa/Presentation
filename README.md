@@ -39,9 +39,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22hsu65kasyovi3jwkkvyzvwy&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jutoroa/jutoroa/output/snake.svg" alt="Snake animation" />
-
-###
